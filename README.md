@@ -1,22 +1,28 @@
 # 💇 AI-Based HairCare Recommendation System
 
+🌐 **Live Demo:** https://kesh-care-ai-based-hair-care-recomm.vercel.app/
+
+📂 **GitHub Repository:** https://github.com/mansi-1406/AI-Based-Haircare-Recommendation-System
+
+---
+
 ## 📖 Overview
 
-The AI-Based HairCare Recommendation System is a smart web application that provides personalized hair care recommendations based on a user's hair type, scalp condition, and hair concerns. The goal of this project is to help users discover suitable hair care routines and products tailored to their individual needs.
+The AI-Based HairCare Recommendation System is a smart web application that provides personalized hair care recommendations based on a user's hair type, scalp condition, and hair concerns. The system helps users discover suitable hair care routines and recommendations tailored to their individual needs.
 
-This project combines modern web development technologies with recommendation logic to deliver a simple, interactive, and user-friendly experience.
+Built using React and Vite, the application offers a clean, responsive, and interactive user experience while demonstrating the practical use of recommendation systems in the beauty and wellness domain.
 
 ---
 
 ## ✨ Features
 
 - Personalized hair care recommendations
-- User-friendly and responsive interface
 - Hair type and concern analysis
-- Customized hair care routine suggestions
-- Fast and interactive user experience
-- Modern UI built with React and Vite
-- Easy-to-use recommendation workflow
+- User-friendly and responsive interface
+- Interactive recommendation workflow
+- Fast and modern web application
+- Clean and intuitive design
+- Real-time recommendation generation
 
 ---
 
@@ -29,11 +35,20 @@ This project combines modern web development technologies with recommendation lo
 - HTML5
 - CSS3
 
-### Development Tools
+### Tools & Technologies
 - Node.js
 - npm
 - Git
 - GitHub
+- Vercel (Deployment)
+
+---
+
+## 🚀 Live Website
+
+Visit the deployed application:
+
+👉 https://kesh-care-ai-based-hair-care-recomm.vercel.app/
 
 ---
 
@@ -60,33 +75,33 @@ AI_Based_HairCare_Recommendation_System/
 
 ---
 
-## 🚀 Installation & Setup
+## ⚙️ Installation & Setup
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/mansi-1406/AI-Based-Haircare-Recommendation-System.git
 ```
 
-### 2. Navigate to the Project Folder
+### Navigate to the Project Directory
 
 ```bash
 cd AI-Based-Haircare-Recommendation-System
 ```
 
-### 3. Install Dependencies
+### Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Start the Development Server
+### Run the Development Server
 
 ```bash
 npm run dev
 ```
 
-### 5. Open in Browser
+### Open in Browser
 
 ```text
 http://localhost:5173
@@ -94,28 +109,39 @@ http://localhost:5173
 
 ---
 
-## ⚙️ How It Works
+## 🎯 How It Works
 
-1. User enters hair-related information.
-2. The system analyzes the provided details.
-3. Recommendation logic processes the input.
+1. User provides hair-related information.
+2. The system analyzes the entered details.
+3. Recommendation logic processes the data.
 4. Suitable hair care suggestions are generated.
-5. The user receives personalized hair care recommendations.
+5. Personalized recommendations are displayed to the user.
 
 ---
 
 ## 🎯 Objectives
 
 - Provide personalized hair care guidance.
-- Help users understand their hair needs.
-- Improve accessibility to hair care recommendations.
-- Deliver a simple and interactive user experience.
+- Improve awareness of proper hair care practices.
+- Deliver quick and accessible recommendations.
+- Demonstrate the practical application of recommendation systems.
+- Enhance user experience through an interactive web interface.
+
+---
+
+## 🔮 Potential Applications
+
+- Beauty and wellness platforms
+- Hair care consultation services
+- Personal grooming applications
+- E-commerce recommendation systems
+- AI-powered beauty assistants
 
 ---
 
 ## 🌟 Future Enhancements
 
-- AI-powered hair type detection using images
+- AI-based hair type detection using images
 - Scalp condition analysis
 - Product recommendation integration
 - User authentication and profiles
@@ -126,22 +152,12 @@ http://localhost:5173
 
 ---
 
-## 🔮 Potential Applications
-
-- Beauty and wellness platforms
-- Hair care consultation services
-- E-commerce recommendation systems
-- Personal grooming applications
-- AI-driven beauty assistants
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome.
 
 1. Fork the repository
-2. Create a feature branch
+2. Create a new feature branch
 
 ```bash
 git checkout -b feature-name
@@ -150,7 +166,7 @@ git checkout -b feature-name
 3. Commit your changes
 
 ```bash
-git commit -m "Added new feature"
+git commit -m "Add new feature"
 ```
 
 4. Push to GitHub
@@ -179,6 +195,6 @@ This project is developed for educational and learning purposes.
 
 ## ⭐ Support
 
-If you found this project useful, consider giving it a star on GitHub.
+If you found this project useful, please consider giving it a star on GitHub.
 
-⭐ Star the repository to support the project and encourage future improvements.
+⭐ Your support helps improve the project and encourages future development.
